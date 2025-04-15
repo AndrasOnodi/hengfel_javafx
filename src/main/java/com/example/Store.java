@@ -1,5 +1,5 @@
 /*
-* File: MainController.java
+* File: Store.java
 * Author: Ónodi András Péter
 * Copyright: 2025, Ónodi András Péter
 * Group: Szoft II-2-N
